@@ -1,0 +1,22 @@
+# GB Studio - generated builds
+/build/
+
+# Cache
+.cache/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~

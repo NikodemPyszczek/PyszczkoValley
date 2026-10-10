@@ -1,0 +1,91 @@
+{
+  "_resourceType": "actorPrefab",
+  "id": "8d9d0f7c-2757-441c-9111-403634dcb6c9",
+  "name": "Enemies/Ship/Vertical",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "954ffda3-81b7-40ea-a338-3b11ad4b75fb",
+  "paletteId": "",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "persistent": false,
+  "collisionGroup": "1",
+  "collisionExtraFlags": [],
+  "script": [],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [
+    {
+      "id": "76da6451-c2cf-47fb-bdb9-658830932296",
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {},
+      "children": {
+        "script": [
+          {
+            "id": "f007f858-50a5-47af-9405-1830a1cf940e",
+            "command": "EVENT_ACTOR_COLLISIONS_DISABLE",
+            "args": {
+              "actorId": "0"
+            },
+            "children": {}
+          },
+          {
+            "id": "6e52a57c-f8aa-4455-a25a-caaedb5a94fb",
+            "command": "EVENT_ACTOR_STOP_UPDATE",
+            "args": {
+              "actorId": "0"
+            },
+            "children": {}
+          },
+          {
+            "id": "a8288ad5-af6a-407b-9e66-20a349895549",
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "crash",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": false
+            },
+            "children": {}
+          },
+          {
+            "id": "47117590-73e5-42cf-bd20-ae4f3faa896a",
+            "command": "",
+            "children": {}
+          },
+          {
+            "id": "e74fd49c-aeb4-49cc-91e0-aeb952574336",
+            "command": "",
+            "children": {}
+          },
+          {
+            "id": "05d0c4ff-d963-4bf8-8a7d-3a293c6f3633",
+            "command": "EVENT_WAIT",
+            "args": {
+              "time": {
+                "type": "number",
+                "value": 0.5
+              },
+              "frames": {
+                "type": "number",
+                "value": 30
+              }
+            },
+            "children": {}
+          },
+          {
+            "id": "7700e9aa-05aa-4a26-b580-ffac0aa2c699",
+            "command": "EVENT_ACTOR_DEACTIVATE",
+            "args": {
+              "actorId": "0"
+            },
+            "children": {}
+          }
+        ]
+      }
+    }
+  ],
+  "hit2Script": [],
+  "hit3Script": []
+}
