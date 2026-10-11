@@ -1,8 +1,8 @@
 # 🌱 Pyszczko Valley
 
-**Pyszczko Valley** to gra na Game Boya tworzona w **GB Studio 4.3.2**, inspirowana lore, historiami i żartami społeczności internetowej twórczyni **Asiaf_Kornelia**.
+**Pyszczko Valley** to gra na Game Boya tworzona w **GB Studio 4.3.2**, wokół lore Pani **Asiaf_Kornelia**, której jesteśmy uczniami. Wcale nie sektą.
 
-Gra jest obecnie w trakcie rozwoju.
+Gra jest rozwijana przez fanów i drobne zwierzątka typu wiewiórki, dżdżownice.
 
 ## 🎮 Zagraj online
 
@@ -17,11 +17,11 @@ Gra jest obecnie w trakcie rozwoju.
 | X | Cofnięcie |
 | Enter | Start / menu |
 
-Na telefonach dostępne są przyciski ekranowe.
+Na telefonie użyj przycisków ekranowych.
 
 ## 🌸 Asiaf_Kornelia
 
-Poznaj twórczynię i społeczność, których lore stanowi inspirację dla gry!
+Zajrzyj do nas i baw sie dobrze <3
 
 - 🌐 **Strona internetowa:** [asiaf.net](https://asiaf.net/)
 - 📸 **Instagram:** [@asiaf_kornelia](https://www.instagram.com/asiaf_kornelia/)
@@ -34,7 +34,7 @@ Poznaj twórczynię i społeczność, których lore stanowi inspirację dla gry!
 
 ## 🤝 Pomóż w rozwoju gry
 
-Masz pomysł na nową postać, dialog, wydarzenie lub nawiązanie do lore Asi?
+Masz pomysł na nową postać, dialog, wydarzenie lub nawiązanie do świata Asi?
 
 Możesz zgłaszać propozycje i błędy przez **[GitHub Issues](https://github.com/NikodemPyszczek/PyszczkoValley/issues)** albo przesyłać własne poprawki jako **Pull Request**.
 
