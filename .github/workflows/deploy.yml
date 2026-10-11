@@ -57,6 +57,9 @@ jobs:
             "game/Pyszczko Valley.gbsproj" \
             "$GITHUB_WORKSPACE/web-build"
 
+      - name: Add desktop controls legend
+        run: python3 game/scripts/add-controls.py
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

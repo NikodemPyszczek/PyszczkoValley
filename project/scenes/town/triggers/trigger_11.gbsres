@@ -69,6 +69,31 @@
                   }
                 },
                 {
+                  "command": "EVENT_TEXT",
+                  "args": {
+                    "text": [
+                      "hehe. Sagala\nw przytulnej. hehe"
+                    ],
+                    "__section": "text",
+                    "avatarId": "",
+                    "minHeight": 4,
+                    "maxHeight": 7,
+                    "textX": 1,
+                    "textY": 1,
+                    "textHeight": 5,
+                    "position": "bottom",
+                    "clearPrevious": true,
+                    "showFrame": "true",
+                    "speedIn": -1,
+                    "speedOut": -1,
+                    "closeWhen": "key",
+                    "closeButton": "a",
+                    "closeDelayTime": 0.5,
+                    "closeDelayFrames": 30
+                  },
+                  "id": "30305180-e8d5-4a95-8b29-725fccf74ae6"
+                },
+                {
                   "id": "c2ae553c-e8ae-4318-983b-ea09b578129a",
                   "command": "EVENT_ACTOR_MOVE_TO",
                   "args": {
