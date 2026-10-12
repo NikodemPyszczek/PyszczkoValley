@@ -6,7 +6,7 @@
   "prefabId": "",
   "name": "Sign Post",
   "coordinateType": "tiles",
-  "x": 28,
+  "x": 29,
   "y": 23,
   "frame": 0,
   "animate": false,

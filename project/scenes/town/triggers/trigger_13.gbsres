@@ -1,0 +1,58 @@
+{
+  "_resourceType": "trigger",
+  "id": "69e0ed39-a1b0-474c-8f78-cbb13abae3f4",
+  "name": "",
+  "prefabId": "",
+  "x": 2,
+  "y": 24,
+  "symbol": "trigger_3",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 3,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Czesc, jestem Grzegorz\nZabiore cie na Bracka"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "4f0cc6a6-adb4-456e-bf79-ea200ca3968c"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "34cf7ed6-09e1-42d5-96c7-275ac7de77b3",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 13
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "be4f6801-46c2-41c4-a8b1-f0298012aa6e"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 12
+}
