@@ -1,20 +1,14 @@
 {
   "_resourceType": "settings",
-<<<<<<< HEAD
-  "worldScrollX": 2712.5,
-  "worldScrollY": 1858.75,
-  "zoom": 400,
-=======
-  "worldScrollX": 456.6666564941406,
-  "worldScrollY": 836,
-  "zoom": 200,
->>>>>>> 856d519 (zmiany wprowadzone na streamie)
+  "worldScrollX": 18,
+  "worldScrollY": 0,
+  "zoom": 100,
   "navigatorSplitSizes": [
-    291,
-    205,
-    205,
-    205,
-    206
+    400,
+    30,
+    30,
+    30,
+    30
   ],
   "showNavigator": true,
   "showCollisions": true,
@@ -26,7 +20,7 @@
     "EVENT_TEXT",
     "EVENT_SWITCH_SCENE"
   ],
-  "debuggerEnabled": true,
+  "debuggerEnabled": false,
   "debuggerScriptType": "editor",
   "debuggerVariablesFilter": "all",
   "debuggerCollapsedPanes": [],
