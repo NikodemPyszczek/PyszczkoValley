@@ -36,6 +36,14 @@
     {
       "id": "SHOOTER_WALL_COLLISION_GROUP",
       "value": "COLLISION_GROUP_NONE"
+    },
+    {
+      "id": "FEAT_ADVENTURE_RUN",
+      "value": 1
+    },
+    {
+      "id": "FEAT_ADVENTURE_DASH",
+      "value": 1
     }
   ]
 }

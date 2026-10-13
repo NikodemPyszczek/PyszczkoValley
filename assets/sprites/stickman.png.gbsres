@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "8836a1a4-9685-4c70-8843-731d8be3286a",
+  "name": "stickman",
+  "symbol": "sprite_new_piskel_1_png",
+  "states": [
+    {
+      "id": "97e84166-7e34-4ff6-bc2e-75b6e78da497",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "d6df3691-13cb-4813-9fa5-17090df17dd4",
+          "frames": [
+            {
+              "id": "f20fa2a9-2a0a-450e-90e5-c8d3efa001ca",
+              "tiles": [
+                {
+                  "id": "e3184857-2cfe-481d-a10b-7b181a8d0ca4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c79d990c-d165-4220-8b6a-85646ab417e8",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "202bd1ec-be32-43f6-8917-b2758a312c29",
+          "frames": [
+            {
+              "id": "a8f7ce39-a976-4e26-9824-5b947b43d48d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b133446-c3c9-4504-a75d-939a351d2a11",
+          "frames": [
+            {
+              "id": "d67d29b1-185b-4d70-986f-3ac71f663a2c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9fff1d9e-fa95-4add-8e2b-d8147fa097a1",
+          "frames": [
+            {
+              "id": "411a1459-1d9c-4f75-b390-bcb4e2039446",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e63b5aa3-4695-41cf-9b9e-9e66e293cd65",
+          "frames": [
+            {
+              "id": "0873e5c8-e626-48fb-8b5d-32aa2b83ef1e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bd251c3a-9e22-4519-b885-b21242a53e6a",
+          "frames": [
+            {
+              "id": "2f40a425-7f72-4298-9f43-74178d090805",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b65b989-b8b6-40fc-ad3b-d01dadc8da13",
+          "frames": [
+            {
+              "id": "1a1b2f17-2012-42c0-8009-d9c7251c4255",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf6b59aa-bbd1-4e86-bebd-e1877247f554",
+          "frames": [
+            {
+              "id": "cb476675-1a45-4f7c-b440-20154fd11b6a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "stickman.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "357841702256833d54223a074f000af6174012fb"
+}

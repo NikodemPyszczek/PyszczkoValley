@@ -43,9 +43,9 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "Welcome to the\nMusic House!",
-                "Try the instruments to\nplay some tunes",
-                "And use the machines at\nthe back to play some\nsound effects"
+                "Witaj!\nJestem Prankster_hex",
+                "Czy też kochasz muze?",
+                "uzyj instrumentow!"
               ],
               "avatarId": ""
             },
@@ -66,7 +66,7 @@
             "args": {
               "text": [
                 "YEAH!",
-                "You can edit any song\nwith the Music Editor"
+                "Bedziemy sie beat!"
               ],
               "avatarId": ""
             },

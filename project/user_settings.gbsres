@@ -1,14 +1,20 @@
 {
   "_resourceType": "settings",
+<<<<<<< HEAD
   "worldScrollX": 2712.5,
   "worldScrollY": 1858.75,
   "zoom": 400,
+=======
+  "worldScrollX": 456.6666564941406,
+  "worldScrollY": 836,
+  "zoom": 200,
+>>>>>>> 856d519 (zmiany wprowadzone na streamie)
   "navigatorSplitSizes": [
-    460,
-    30,
-    380,
-    30,
-    205
+    291,
+    205,
+    205,
+    205,
+    206
   ],
   "showNavigator": true,
   "showCollisions": true,

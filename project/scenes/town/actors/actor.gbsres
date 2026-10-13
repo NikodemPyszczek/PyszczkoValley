@@ -1,0 +1,56 @@
+{
+  "_resourceType": "actor",
+  "id": "7b4f4486-ba2e-4506-a08e-3c7d5c3a9d8d",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "8836a1a4-9685-4c70-8843-731d8be3286a",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_2",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "ALE JESTEM\nSTRIGGEROWANY",
+          "yyy co ja mam\nw dupie"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "8a295f71-066f-47d3-96d5-cf59956a0548"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 48,
+  "y": 3,
+  "_index": 9
+}
