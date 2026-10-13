@@ -6,7 +6,7 @@
   "prefabId": "",
   "name": "Pet Owner",
   "coordinateType": "tiles",
-  "x": 24,
+  "x": 25,
   "y": 45,
   "frame": 0,
   "animate": false,
