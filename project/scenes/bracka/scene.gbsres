@@ -1,0 +1,42 @@
+{
+  "_resourceType": "scene",
+  "id": "34cf7ed6-09e1-42d5-96c7-275ac7de77b3",
+  "_index": 8,
+  "name": "Bracka",
+  "backgroundId": "1da35172-aea4-40b4-8215-7992d9245b34",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "default-bg-4",
+    "",
+    "",
+    ""
+  ],
+  "spritePaletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "8607a9b4-fd4f-4bd2-8f99-ceafea5cb754",
+    ""
+  ],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 1012,
+  "y": 80,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
+}

@@ -1,0 +1,58 @@
+{
+  "_resourceType": "trigger",
+  "id": "9f5ae950-af5c-4946-ab2d-8a0576a6f7c3",
+  "name": "back_to_town",
+  "prefabId": "",
+  "x": 9,
+  "y": 15,
+  "symbol": "trigger_8",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Wpadnij jeszcze\nna obwarzanka!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "8fab1f5f-35de-4606-897f-c83a9eff3fc8"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "94c18861-b352-4f49-a64d-52f2e3415077",
+        "x": {
+          "type": "number",
+          "value": 3
+        },
+        "y": {
+          "type": "number",
+          "value": 22
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "4ed29d83-9ed8-4365-8b5b-81258abe7466"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
